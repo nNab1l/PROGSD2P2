@@ -5,3 +5,5 @@ echo "Included";
 
 // include ("../private/voorbeeldrequired.php");
 echo "Required";
+
+?>
