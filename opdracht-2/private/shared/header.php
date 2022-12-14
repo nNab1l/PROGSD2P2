@@ -9,7 +9,8 @@
 <header>
   <nav>≡</nav>
   <h1>welkom</h1>
-  <h2>zoek</h2>
+  <a href="<?php echo url_path('/contentbeheer/index1.php'); ?>">beheer</a>
+  <a href="<?php echo url_path('/contentbeheer/blogs.php'); ?>">blogs</a>
 </header>
 </body>
 </html>

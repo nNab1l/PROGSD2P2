@@ -1,5 +1,5 @@
 <?php
 echo '
 <article class="middel">
-  <h2>content</h2>
+  <h2>Beheer</h2>
 </article>';
