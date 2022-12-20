@@ -50,3 +50,17 @@ article{
     height: 7rem;
     gap: 2rem;
 }
+
+
+
+.input__form{
+    width: 30rem;
+    height: 30rem;
+    background: gray;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 5rem;
+    gap: 2rem;
+    border-radius: 1rem;
+}
